@@ -32,4 +32,4 @@ All the MIBs have been hard coded into this module, for more details see the Pow
 
 ## Licence
 
-[The MIT License (MIT)](https://github.com/phillipsnick/apc-ups-snmp/blob/master/LICENCE)
+[The MIT License (MIT)](https://github.com/phillipsnick/apc-ups-snmp/blob/master/LICENSE)
