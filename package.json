@@ -1,6 +1,6 @@
 {
   "name": "apc-ups-snmp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Library for reading values of APC UPS battery via the network",
   "main": "./lib/apc.js",
   "scripts": {
