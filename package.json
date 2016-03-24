@@ -2,7 +2,7 @@
   "name": "apc-ups-snmp",
   "version": "0.2.4",
   "description": "Library for reading values of APC UPS battery via the network",
-  "main": "./lib/apc.js",
+  "main": "./lib/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
